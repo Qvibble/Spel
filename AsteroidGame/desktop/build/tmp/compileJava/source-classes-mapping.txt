@@ -1,0 +1,2 @@
+com/mygdx/asteroidgame/desktop/DesktopLauncher.java
+ com.mygdx.asteroidgame.desktop.DesktopLauncher
